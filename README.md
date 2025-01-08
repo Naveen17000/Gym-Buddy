@@ -43,9 +43,4 @@ Below is the main interface of the application:
 - Follow the instructions on the screen.
 - The app will track your reps in real-time!
 
-## Contributing
-Contributions are welcome! Feel free to open a pull request or issue.
-
-## License
-This project is licensed under the MIT License.
 
