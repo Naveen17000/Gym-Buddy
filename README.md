@@ -14,7 +14,8 @@ The application uses **OpenCV** and **Mediapipe** for real-time pose detection a
 ## Screenshot
 Below is the main interface of the application:
 
-![Virtual Gym Buddy Interface](image.png)
+![image](https://github.com/user-attachments/assets/15adbb33-1269-479b-b0bb-5d1f0aab0ad6)
+
 
 ## Requirements
 - Python 3.x
